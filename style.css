@@ -38,13 +38,13 @@ body, html {
   }
 
 .profile 
-    img {
+    /* img {
         position: absolute;
         top: 15%;
         left: 15%;
         width: 20%;
         border-radius: 10px;
-    }
+    } */
     p, h2 {
         position: absolute;
         color: 0B60B0;
