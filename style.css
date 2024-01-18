@@ -47,7 +47,7 @@ body, html {
     }
     p, h2 {
         position: absolute;
-        color: #F0EDCF;
+        color: white;
         right: 15%;
         width: 46%;
         font-family: 'Montserrat';
