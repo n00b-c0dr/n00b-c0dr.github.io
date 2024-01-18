@@ -2,10 +2,10 @@
 
 body, html {
     height: 100%;
-    background-color: 000000;
+    background-color: #000000;
 }
 .topnav {
-    background-color: 000000;
+    background-color: #000000;
     overflow: hidden;
     /* left: 15%; */
     /* right: 15%; */
@@ -38,16 +38,16 @@ body, html {
   }
 
 .profile 
-    /* img {
+    img {
         position: absolute;
         top: 15%;
         left: 15%;
         width: 20%;
         border-radius: 10px;
-    } */
+    }
     p, h2 {
         position: absolute;
-        color: 0B60B0;
+        color: #0B60B0;
         right: 15%;
         width: 46%;
         font-family: 'Montserrat';
